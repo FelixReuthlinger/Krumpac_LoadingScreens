@@ -1,10 +1,10 @@
 {
-  "name": "your_mod_pack_name",
-  "description": "your mod short description",
+  "name": "Krumpac_Reforge_Loading_Screens",
+  "description": "Selection of loading screens used for Krumpac Reforge mod pack",
   "version_number": "1.0.0",
-  "website_url": "your url",
+  "website_url": "https://discord.gg/8bNTB7xNrd",
   "dependencies": [
-    "...",
+    "ComfyMods-Intermission-1.0.2",
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
 }
