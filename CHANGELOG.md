@@ -1,3 +1,4 @@
+* 3.0.0 -> exchanged loading screen wallpapers (also now containing fixed text)
 * 2.0.1 -> updated dependencies
 * 2.0.0 -> updated dependencies and ready for Hildir's update
 * 1.1.0 -> updated dependencies and ready for Valheim version 0.216.9
