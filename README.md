@@ -14,5 +14,5 @@ This mod simply provides some nicer loading screens in use with [Krumpac Reforge
   <summary>Contact</summary>
 
 * https://discord.gg/8bNTB7xNrd
-* Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
+* Discord: fluuxxx (you can find me around some of the Valheim modding discords, too)
 </details>
