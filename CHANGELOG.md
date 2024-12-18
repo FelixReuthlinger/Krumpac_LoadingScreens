@@ -1,4 +1,7 @@
-* 5.0.1 -> updated depedencies
+* 7.0.0 -> 
+    * updated dependencies
+    * updated config file to latest version
+* 5.0.1 -> updated dependencies
 * 5.0.0 -> bumped version to align with other mods and updated used versions
 * 3.0.0 -> exchanged loading screen wallpapers (also now containing fixed text)
 * 2.0.1 -> updated dependencies
